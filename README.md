@@ -10,8 +10,8 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 
 ## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![pooja Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![pooja Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing Anon
 
-To install **Anon**, follow these steps:
+To install **pooja e-commerce website**, follow these steps:
 
 Linux and macOS:
 
